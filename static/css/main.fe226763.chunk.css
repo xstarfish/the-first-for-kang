@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.cursor{display:inline-block;position:relative}.cursor:after{content:"";margin:auto;position:absolute;right:-4px;top:-3px;width:1px;height:100%;background-color:#666;-webkit-animation:cursor-animation 1.5s step-end infinite;animation:cursor-animation 1.5s step-end infinite}@-webkit-keyframes cursor-animation{0%{opacity:0}50%{opacity:1}to{opacity:0}}@keyframes cursor-animation{0%{opacity:0}50%{opacity:1}to{opacity:0}}
+/*# sourceMappingURL=main.fe226763.chunk.css.map */

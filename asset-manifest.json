@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/the-first-for-kang/static/css/main.fe226763.chunk.css",
+    "main.js": "/the-first-for-kang/static/js/main.d1446991.chunk.js",
+    "main.js.map": "/the-first-for-kang/static/js/main.d1446991.chunk.js.map",
+    "runtime-main.js": "/the-first-for-kang/static/js/runtime-main.25f01a19.js",
+    "runtime-main.js.map": "/the-first-for-kang/static/js/runtime-main.25f01a19.js.map",
+    "static/js/2.70362167.chunk.js": "/the-first-for-kang/static/js/2.70362167.chunk.js",
+    "static/js/2.70362167.chunk.js.map": "/the-first-for-kang/static/js/2.70362167.chunk.js.map",
+    "index.html": "/the-first-for-kang/index.html",
+    "precache-manifest.eba242fbc6ea3c3e9620f78f38a4304c.js": "/the-first-for-kang/precache-manifest.eba242fbc6ea3c3e9620f78f38a4304c.js",
+    "service-worker.js": "/the-first-for-kang/service-worker.js",
+    "static/css/main.fe226763.chunk.css.map": "/the-first-for-kang/static/css/main.fe226763.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f01a19.js",
+    "static/js/2.70362167.chunk.js",
+    "static/css/main.fe226763.chunk.css",
+    "static/js/main.d1446991.chunk.js"
+  ]
+}
